@@ -7,8 +7,10 @@ This project is for learning purpose of Springboot, Java and MySQL and for showc
 
 To run the project on your local system , take a clone on this repository and import it in Eclipse or IntelliJ as a Maven project and 
 in application.prop file uncomment these line: 
+
 #spring.datasource.username=root
 #spring.datasource.password=
+
 Here you have to have a Mysql server running on your local system ,make sure you have a username 'root' in your MySql db 
 and set the same password in spring.datasource.password as same in your Mysql server running on your local system.
 
